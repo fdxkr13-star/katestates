@@ -1,0 +1,11 @@
+[
+    {
+        "title": "2-комнатная квартира",
+        "price": "58 000 $",
+        "location": "95 квартал, Кривой Рог",
+        "area": "58 м²",
+        "rooms": 2,
+        "description": "Светлая 2-комнатная квартира.",
+        "image": "images/property/kvartira1.jpg"
+    }
+]

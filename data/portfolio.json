@@ -1,0 +1,11 @@
+[
+    {
+        "title": "2-комнатная квартира",
+        "price": "Продано",
+        "location": "95 квартал, Кривой Рог",
+        "area": "58 м²",
+        "rooms": 2,
+        "description": "Квартира успешно продана.",
+        "image": "images/property/portfolio1.jpg"
+    }
+]
